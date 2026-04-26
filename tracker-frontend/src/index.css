@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@theme {
+  --color-mana-blue: #00d2ff;
+  --color-system-purple: #b5179e;
+}

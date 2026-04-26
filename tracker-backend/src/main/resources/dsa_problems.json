@@ -1,0 +1,1202 @@
+[
+  {
+    "Pattern": "Backtracking",
+    "Problem": "Subsets",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/subsets/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Backtracking",
+    "Problem": "Subsets II",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/subsets-ii/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Backtracking",
+    "Problem": "Permutations",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/permutations/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Backtracking",
+    "Problem": "Permutations II",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/permutations-ii/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Backtracking",
+    "Problem": "Combination Sum",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/combination-sum/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Backtracking",
+    "Problem": "Combination Sum II",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/combination-sum-ii/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Backtracking",
+    "Problem": "Letter Combinations of a Phone Number",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Backtracking",
+    "Problem": "Combinations",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/combinations/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Backtracking",
+    "Problem": "Generate Parentheses",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/generate-parentheses/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Backtracking",
+    "Problem": "Word Search",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/word-search/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Binary Tree Traversal",
+    "Problem": "Binary Tree Inorder Traversal",
+    "Difficulty": "Easy",
+    "Link": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Binary Tree Traversal",
+    "Problem": "Binary Tree Preorder Traversal",
+    "Difficulty": "Easy",
+    "Link": "https://leetcode.com/problems/binary-tree-preorder-traversal/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Binary Tree Traversal",
+    "Problem": "Binary Tree Postorder Traversal",
+    "Difficulty": "Easy",
+    "Link": "https://leetcode.com/problems/binary-tree-postorder-traversal/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Binary Tree Traversal",
+    "Problem": "Binary Tree Level Order Traversal",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Binary Tree Traversal",
+    "Problem": "Binary Tree Level Order Traversal II",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/binary-tree-level-order-traversal-ii/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Binary Tree Traversal",
+    "Problem": "Binary Tree Zigzag Level Order Traversal",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Binary Tree Traversal",
+    "Problem": "Maximum Depth of Binary Tree",
+    "Difficulty": "Easy",
+    "Link": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Binary Tree Traversal",
+    "Problem": "Average of Levels in Binary Tree",
+    "Difficulty": "Easy",
+    "Link": "https://leetcode.com/problems/average-of-levels-in-binary-tree/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Binary Tree Traversal",
+    "Problem": "Binary Tree Right Side View",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/binary-tree-right-side-view/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Binary Tree Traversal",
+    "Problem": "Symmetric Tree",
+    "Difficulty": "Easy",
+    "Link": "https://leetcode.com/problems/symmetric-tree/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Breadth-First Search (BFS)",
+    "Problem": "Minimum Depth of Binary Tree",
+    "Difficulty": "Easy",
+    "Link": "https://leetcode.com/problems/minimum-depth-of-binary-tree/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Breadth-First Search (BFS)",
+    "Problem": "Rotting Oranges",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/rotting-oranges/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Breadth-First Search (BFS)",
+    "Problem": "Open the Lock",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/open-the-lock/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Breadth-First Search (BFS)",
+    "Problem": "Shortest Path in Binary Matrix",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/shortest-path-in-binary-matrix/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Breadth-First Search (BFS)",
+    "Problem": "Perfect Squares",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/perfect-squares/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Breadth-First Search (BFS)",
+    "Problem": "01 Matrix",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/01-matrix/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Breadth-First Search (BFS)",
+    "Problem": "Keys and Rooms",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/keys-and-rooms/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Breadth-First Search (BFS)",
+    "Problem": "Network Delay Time",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/network-delay-time/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Breadth-First Search (BFS)",
+    "Problem": "Course Schedule",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/course-schedule/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Breadth-First Search (BFS)",
+    "Problem": "As Far from Land as Possible",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/as-far-from-land-as-possible/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Depth-First Search (DFS)",
+    "Problem": "Number of Islands",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/number-of-islands/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Depth-First Search (DFS)",
+    "Problem": "Max Area of Island",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/max-area-of-island/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Depth-First Search (DFS)",
+    "Problem": "Flood Fill",
+    "Difficulty": "Easy",
+    "Link": "https://leetcode.com/problems/flood-fill/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Depth-First Search (DFS)",
+    "Problem": "Pacific Atlantic Water Flow",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/pacific-atlantic-water-flow/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Depth-First Search (DFS)",
+    "Problem": "Path Sum",
+    "Difficulty": "Easy",
+    "Link": "https://leetcode.com/problems/path-sum/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Depth-First Search (DFS)",
+    "Problem": "Path Sum II",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/path-sum-ii/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Depth-First Search (DFS)",
+    "Problem": "Clone Graph",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/clone-graph/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Depth-First Search (DFS)",
+    "Problem": "Is Graph Bipartite?",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/is-graph-bipartite/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Depth-First Search (DFS)",
+    "Problem": "Island Perimeter",
+    "Difficulty": "Easy",
+    "Link": "https://leetcode.com/problems/island-perimeter/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Depth-First Search (DFS)",
+    "Problem": "Surrounded Regions",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/surrounded-regions/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Dynamic Programming",
+    "Problem": "Climbing Stairs",
+    "Difficulty": "Easy",
+    "Link": "https://leetcode.com/problems/climbing-stairs/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Dynamic Programming",
+    "Problem": "Min Cost Climbing Stairs",
+    "Difficulty": "Easy",
+    "Link": "https://leetcode.com/problems/min-cost-climbing-stairs/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Dynamic Programming",
+    "Problem": "House Robber",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/house-robber/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Dynamic Programming",
+    "Problem": "House Robber II",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/house-robber-ii/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Dynamic Programming",
+    "Problem": "Coin Change",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/coin-change/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Dynamic Programming",
+    "Problem": "Longest Increasing Subsequence",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/longest-increasing-subsequence/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Dynamic Programming",
+    "Problem": "Unique Paths",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/unique-paths/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Dynamic Programming",
+    "Problem": "Unique Paths II",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/unique-paths-ii/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Dynamic Programming",
+    "Problem": "Maximum Subarray",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/maximum-subarray/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Dynamic Programming",
+    "Problem": "Partition Equal Subset Sum",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/partition-equal-subset-sum/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Fast & Slow Pointers",
+    "Problem": "Linked List Cycle",
+    "Difficulty": "Easy",
+    "Link": "https://leetcode.com/problems/linked-list-cycle/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Fast & Slow Pointers",
+    "Problem": "Linked List Cycle II",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/linked-list-cycle-ii/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Fast & Slow Pointers",
+    "Problem": "Middle of the Linked List",
+    "Difficulty": "Easy",
+    "Link": "https://leetcode.com/problems/middle-of-the-linked-list/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Fast & Slow Pointers",
+    "Problem": "Remove Nth Node From End of List",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Fast & Slow Pointers",
+    "Problem": "Palindrome Linked List",
+    "Difficulty": "Easy",
+    "Link": "https://leetcode.com/problems/palindrome-linked-list/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Fast & Slow Pointers",
+    "Problem": "Happy Number",
+    "Difficulty": "Easy",
+    "Link": "https://leetcode.com/problems/happy-number/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Fast & Slow Pointers",
+    "Problem": "Reorder List",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/reorder-list/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Fast & Slow Pointers",
+    "Problem": "Find the Duplicate Number",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/find-the-duplicate-number/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Fast & Slow Pointers",
+    "Problem": "Circular Array Loop",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/circular-array-loop/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Fast & Slow Pointers",
+    "Problem": "Maximum Twin Sum of a Linked List",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "LinkedList In-place Reversal",
+    "Problem": "Reverse Linked List",
+    "Difficulty": "Easy",
+    "Link": "https://leetcode.com/problems/reverse-linked-list/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "LinkedList In-place Reversal",
+    "Problem": "Reverse Linked List II",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/reverse-linked-list-ii/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "LinkedList In-place Reversal",
+    "Problem": "Swap Nodes in Pairs",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/swap-nodes-in-pairs/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "LinkedList In-place Reversal",
+    "Problem": "Rotate List",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/rotate-list/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "LinkedList In-place Reversal",
+    "Problem": "Odd Even Linked List",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/odd-even-linked-list/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "LinkedList In-place Reversal",
+    "Problem": "Partition List",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/partition-list/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "LinkedList In-place Reversal",
+    "Problem": "Reverse Nodes in Even Length Groups",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/reverse-nodes-in-even-length-groups/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "LinkedList In-place Reversal",
+    "Problem": "Swapping Nodes in a Linked List",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/swapping-nodes-in-a-linked-list/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "LinkedList In-place Reversal",
+    "Problem": "Flatten a Multilevel Doubly Linked List",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "LinkedList In-place Reversal",
+    "Problem": "Split Linked List in Parts",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/split-linked-list-in-parts/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Matrix Traversal",
+    "Problem": "Spiral Matrix",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/spiral-matrix/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Matrix Traversal",
+    "Problem": "Spiral Matrix II",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/spiral-matrix-ii/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Matrix Traversal",
+    "Problem": "Diagonal Traverse",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/diagonal-traverse/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Matrix Traversal",
+    "Problem": "Set Matrix Zeroes",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/set-matrix-zeroes/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Matrix Traversal",
+    "Problem": "Search a 2D Matrix",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/search-a-2d-matrix/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Matrix Traversal",
+    "Problem": "Search a 2D Matrix II",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/search-a-2d-matrix-ii/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Matrix Traversal",
+    "Problem": "Toeplitz Matrix",
+    "Difficulty": "Easy",
+    "Link": "https://leetcode.com/problems/toeplitz-matrix/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Matrix Traversal",
+    "Problem": "Transpose Matrix",
+    "Difficulty": "Easy",
+    "Link": "https://leetcode.com/problems/transpose-matrix/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Matrix Traversal",
+    "Problem": "Game of Life",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/game-of-life/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Matrix Traversal",
+    "Problem": "Matrix Diagonal Sum",
+    "Difficulty": "Easy",
+    "Link": "https://leetcode.com/problems/matrix-diagonal-sum/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Modified Binary Search",
+    "Problem": "Binary Search",
+    "Difficulty": "Easy",
+    "Link": "https://leetcode.com/problems/binary-search/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Modified Binary Search",
+    "Problem": "First Bad Version",
+    "Difficulty": "Easy",
+    "Link": "https://leetcode.com/problems/first-bad-version/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Modified Binary Search",
+    "Problem": "Search Insert Position",
+    "Difficulty": "Easy",
+    "Link": "https://leetcode.com/problems/search-insert-position/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Modified Binary Search",
+    "Problem": "Find Peak Element",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/find-peak-element/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Modified Binary Search",
+    "Problem": "Search in Rotated Sorted Array",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Modified Binary Search",
+    "Problem": "Search in Rotated Sorted Array II",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Modified Binary Search",
+    "Problem": "Koko Eating Bananas",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/koko-eating-bananas/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Modified Binary Search",
+    "Problem": "Capacity To Ship Packages Within D Days",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Modified Binary Search",
+    "Problem": "Find Minimum in Rotated Sorted Array",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Modified Binary Search",
+    "Problem": "Single Element in a Sorted Array",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/single-element-in-a-sorted-array/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Monotonic Stack",
+    "Problem": "Next Greater Element I",
+    "Difficulty": "Easy",
+    "Link": "https://leetcode.com/problems/next-greater-element-i/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Monotonic Stack",
+    "Problem": "Next Greater Element II",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/next-greater-element-ii/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Monotonic Stack",
+    "Problem": "Daily Temperatures",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/daily-temperatures/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Monotonic Stack",
+    "Problem": "Min Stack",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/min-stack/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Monotonic Stack",
+    "Problem": "Remove K Digits",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/remove-k-digits/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Monotonic Stack",
+    "Problem": "Asteroid Collision",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/asteroid-collision/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Monotonic Stack",
+    "Problem": "Final Prices With a Special Discount in a Shop",
+    "Difficulty": "Easy",
+    "Link": "https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Monotonic Stack",
+    "Problem": "Sum of Subarray Minimums",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/sum-of-subarray-minimums/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Monotonic Stack",
+    "Problem": "Online Stock Span",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/online-stock-span/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Monotonic Stack",
+    "Problem": "Next Greater Node In Linked List",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/next-greater-node-in-linked-list/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Overlapping Intervals",
+    "Problem": "Merge Intervals",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/merge-intervals/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Overlapping Intervals",
+    "Problem": "Insert Interval",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/insert-interval/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Overlapping Intervals",
+    "Problem": "Non-overlapping Intervals",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/non-overlapping-intervals/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Overlapping Intervals",
+    "Problem": "Minimum Number of Arrows to Burst Balloons",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Overlapping Intervals",
+    "Problem": "Interval List Intersections",
+    "Difficulty": "Easy",
+    "Link": "https://leetcode.com/problems/interval-list-intersections/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Overlapping Intervals",
+    "Problem": "Remove Covered Intervals",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/remove-covered-intervals/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Overlapping Intervals",
+    "Problem": "Find Right Interval",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/find-right-interval/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Overlapping Intervals",
+    "Problem": "Teemo Attacking",
+    "Difficulty": "Easy",
+    "Link": "https://leetcode.com/problems/teemo-attacking/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Overlapping Intervals",
+    "Problem": "Video Stitching",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/video-stitching/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Overlapping Intervals",
+    "Problem": "Car Pooling",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/car-pooling/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Prefix Sum",
+    "Problem": "Range Sum Query - Immutable",
+    "Difficulty": "Easy",
+    "Link": "https://leetcode.com/problems/range-sum-query-immutable/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Prefix Sum",
+    "Problem": "Subarray Sum Equals K",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/subarray-sum-equals-k/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Prefix Sum",
+    "Problem": "Find Pivot Index",
+    "Difficulty": "Easy",
+    "Link": "https://leetcode.com/problems/find-pivot-index/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Prefix Sum",
+    "Problem": "Minimum Value to Get Positive Step by Step Sum",
+    "Difficulty": "Easy",
+    "Link": "https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Prefix Sum",
+    "Problem": "Maximum Average Subarray I",
+    "Difficulty": "Easy",
+    "Link": "https://leetcode.com/problems/maximum-average-subarray-i/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Prefix Sum",
+    "Problem": "Contiguous Array",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/contiguous-array/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Prefix Sum",
+    "Problem": "Find the Middle Index in Array",
+    "Difficulty": "Easy",
+    "Link": "https://leetcode.com/problems/find-the-middle-index-in-array/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Prefix Sum",
+    "Problem": "Running Sum of 1d Array",
+    "Difficulty": "Easy",
+    "Link": "https://leetcode.com/problems/running-sum-of-1d-array/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Prefix Sum",
+    "Problem": "Sum of All Odd Length Subarrays",
+    "Difficulty": "Easy",
+    "Link": "https://leetcode.com/problems/sum-of-all-odd-length-subarrays/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Prefix Sum",
+    "Problem": "Binary Subarrays With Sum",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/binary-subarrays-with-sum/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Sliding Window",
+    "Problem": "Longest Substring Without Repeating Characters",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Sliding Window",
+    "Problem": "Minimum Size Subarray Sum",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/minimum-size-subarray-sum/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Sliding Window",
+    "Problem": "Permutation in String",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/permutation-in-string/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Sliding Window",
+    "Problem": "Longest Repeating Character Replacement",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/longest-repeating-character-replacement/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Sliding Window",
+    "Problem": "Grumpy Bookstore Owner",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/grumpy-bookstore-owner/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Sliding Window",
+    "Problem": "Longest Subarray of 1's After Deleting One Element",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Sliding Window",
+    "Problem": "Max Consecutive Ones III",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/max-consecutive-ones-iii/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Sliding Window",
+    "Problem": "Find All Anagrams in a String",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/find-all-anagrams-in-a-string/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Sliding Window",
+    "Problem": "Subarray Product Less Than K",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/subarray-product-less-than-k/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Sliding Window",
+    "Problem": "Maximum Number of Vowels in a Substring of Given Length",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Top K Elements",
+    "Problem": "Kth Largest Element in a Stream",
+    "Difficulty": "Easy",
+    "Link": "https://leetcode.com/problems/kth-largest-element-in-a-stream/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Top K Elements",
+    "Problem": "K Closest Points to Origin",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/k-closest-points-to-origin/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Top K Elements",
+    "Problem": "Top K Frequent Elements",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/top-k-frequent-elements/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Top K Elements",
+    "Problem": "Kth Largest Element in an Array",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Top K Elements",
+    "Problem": "Find K Pairs with Smallest Sums",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/find-k-pairs-with-smallest-sums/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Top K Elements",
+    "Problem": "Sort Characters By Frequency",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/sort-characters-by-frequency/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Top K Elements",
+    "Problem": "Last Stone Weight",
+    "Difficulty": "Easy",
+    "Link": "https://leetcode.com/problems/last-stone-weight/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Top K Elements",
+    "Problem": "Kth Smallest Element in a Sorted Matrix",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Top K Elements",
+    "Problem": "Find K Closest Elements",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/find-k-closest-elements/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Top K Elements",
+    "Problem": "Reorganize String",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/reorganize-string/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Two Pointers",
+    "Problem": "Two Sum II - Input array is sorted",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Two Pointers",
+    "Problem": "3Sum",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/3sum/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Two Pointers",
+    "Problem": "Merge Sorted Array",
+    "Difficulty": "Easy",
+    "Link": "https://leetcode.com/problems/merge-sorted-array/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Two Pointers",
+    "Problem": "Remove Duplicates from Sorted Array",
+    "Difficulty": "Easy",
+    "Link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Two Pointers",
+    "Problem": "Remove Duplicates from Sorted Array II",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Two Pointers",
+    "Problem": "Valid Palindrome",
+    "Difficulty": "Easy",
+    "Link": "https://leetcode.com/problems/valid-palindrome/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Two Pointers",
+    "Problem": "Squares of a Sorted Array",
+    "Difficulty": "Easy",
+    "Link": "https://leetcode.com/problems/squares-of-a-sorted-array/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Two Pointers",
+    "Problem": "Sort Colors",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/sort-colors/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Two Pointers",
+    "Problem": "Reverse String",
+    "Difficulty": "Easy",
+    "Link": "https://leetcode.com/problems/reverse-string/",
+    "Tried": NaN,
+    "Solved": NaN
+  },
+  {
+    "Pattern": "Two Pointers",
+    "Problem": "Container With Most Water",
+    "Difficulty": "Medium",
+    "Link": "https://leetcode.com/problems/container-with-most-water/",
+    "Tried": NaN,
+    "Solved": NaN
+  }
+]
