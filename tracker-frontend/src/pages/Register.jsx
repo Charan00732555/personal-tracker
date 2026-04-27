@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { useNavigate, Link } from 'react-router-dom';
 import { useAuth } from '../context/AuthContext';
 import { Shield, Eye, EyeOff } from 'lucide-react';
+import SystemTutorialModal from '../components/common/SystemTutorialModal';
 
 const Register = () => {
     const [username, setUsername] = useState('');
@@ -12,6 +13,7 @@ const Register = () => {
     const [loading, setLoading] = useState(false);
     const { register } = useAuth();
     const navigate = useNavigate();
+    const [showTutorial, setShowTutorial] = useState(false);
 
     const handleSubmit = async (e) => {
         e.preventDefault();
@@ -23,7 +25,7 @@ const Register = () => {
         setLoading(true);
         try {
             await register(username, email, password);
-            navigate('/');
+            setShowTutorial(true);
         } catch (err) {
             setError(err.response?.data?.message || 'Registration failed. Email may already be in use.');
         } finally {
@@ -131,6 +133,11 @@ const Register = () => {
                     </p>
                 </div>
             </div>
+
+            <SystemTutorialModal 
+                isOpen={showTutorial} 
+                onClose={() => navigate('/')} 
+            />
         </div>
     );
 };

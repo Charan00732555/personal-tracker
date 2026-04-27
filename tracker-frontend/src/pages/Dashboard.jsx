@@ -38,18 +38,18 @@ const Dashboard = () => {
                 <>
                 {/* 1. Global System Header (XP Bar) */}
                 <section>
-                    <div className="flex justify-between items-center mb-2">
+                    <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-2 mb-2">
                         <span className="text-zinc-400 text-sm">Overall Level is an average of your core stats.</span>
-                        <button onClick={handleRetroactive} disabled={isCalculating} className="text-xs bg-zinc-800 hover:bg-zinc-700 px-3 py-1 text-zinc-400 rounded transition-colors">
+                        <button onClick={handleRetroactive} disabled={isCalculating} className="text-xs bg-zinc-800 hover:bg-zinc-700 px-3 py-1 text-zinc-400 rounded transition-colors whitespace-nowrap">
                             {isCalculating ? 'Computing...' : 'Recalculate Past XP'}
                         </button>
                     </div>
                     {/* Just an example of an overall main level combining all XP */}
                     <XpBar 
                         title="PLAYER RANK" 
-                        currentXp={(stats.strengthXpRemaining + stats.intelligenceXpRemaining + stats.wisdomXpRemaining) % 100} 
+                        currentXp={(stats.strengthXpRemaining + stats.intelligenceXpRemaining + stats.wisdomXpRemaining + stats.agilityXpRemaining) % 100} 
                         maxXp={100} 
-                        level={Math.floor((stats.strengthLevel + stats.intelligenceLevel + stats.wisdomLevel) / 3)} 
+                        level={Math.floor((stats.strengthLevel + stats.intelligenceLevel + stats.wisdomLevel + stats.agilityLevel) / 4)} 
                     />
                 </section>
 

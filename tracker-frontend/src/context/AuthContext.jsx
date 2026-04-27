@@ -17,20 +17,20 @@ export const AuthProvider = ({ children }) => {
 
     const login = async (username, password) => {
         const response = await api.post('/auth/login', { username, password });
-        const { token: newToken, username: backendUsername, email: userEmail } = response.data;
+        const { token: newToken, username: backendUsername, email: userEmail, avatarId } = response.data;
         localStorage.setItem('tracker_token', newToken);
-        localStorage.setItem('tracker_user', JSON.stringify({ username: backendUsername, email: userEmail }));
+        localStorage.setItem('tracker_user', JSON.stringify({ username: backendUsername, email: userEmail, avatarId }));
         setToken(newToken);
-        setUser({ username: backendUsername, email: userEmail });
+        setUser({ username: backendUsername, email: userEmail, avatarId });
     };
 
     const register = async (username, email, password) => {
         const response = await api.post('/auth/register', { username, email, password });
-        const { token: newToken, username: regUsername, email: regEmail } = response.data;
+        const { token: newToken, username: regUsername, email: regEmail, avatarId } = response.data;
         localStorage.setItem('tracker_token', newToken);
-        localStorage.setItem('tracker_user', JSON.stringify({ username: regUsername, email: regEmail }));
+        localStorage.setItem('tracker_user', JSON.stringify({ username: regUsername, email: regEmail, avatarId }));
         setToken(newToken);
-        setUser({ username: regUsername, email: regEmail });
+        setUser({ username: regUsername, email: regEmail, avatarId });
     };
 
     const logout = () => {
@@ -40,8 +40,14 @@ export const AuthProvider = ({ children }) => {
         setUser(null);
     };
 
+    const updateUser = (updatedUserData) => {
+        const newUser = { ...user, ...updatedUserData };
+        localStorage.setItem('tracker_user', JSON.stringify(newUser));
+        setUser(newUser);
+    };
+
     return (
-        <AuthContext.Provider value={{ user, token, login, register, logout, isAuthenticated: !!token }}>
+        <AuthContext.Provider value={{ user, token, login, register, logout, updateUser, isAuthenticated: !!token }}>
             {children}
         </AuthContext.Provider>
     );

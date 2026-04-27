@@ -7,6 +7,8 @@ import DsaTracker from './pages/DsaTracker';
 import Journal from './pages/Journal';
 import Login from './pages/Login';
 import Register from './pages/Register';
+import Profile from './pages/Profile';
+import Tasks from './pages/Tasks';
 
 // Protects any route — redirects unauthenticated users to /login
 const ProtectedRoute = ({ children }) => {
@@ -34,6 +36,8 @@ function App() {
             <Route path="workouts" element={<Workouts />} />
             <Route path="dsa" element={<DsaTracker />} />
             <Route path="journal" element={<Journal />} />
+            <Route path="profile" element={<Profile />} />
+            <Route path="tasks" element={<Tasks />} />
           </Route>
         </Routes>
       </AuthProvider>

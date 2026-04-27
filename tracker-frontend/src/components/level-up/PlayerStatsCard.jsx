@@ -3,14 +3,15 @@ import { ResponsiveContainer, RadarChart, PolarGrid, PolarAngleAxis, Radar } fro
 import { getHunterClass } from '../../api/statsService';
 
 const PlayerStatsCard = ({ stats }) => {
-    // True Triangle representation of core RPG stats
+    // Diamond representation of core RPG stats
     const data = [
         { subject: 'Strength', A: stats?.strengthLevel || 1, fullMark: 100 },
         { subject: 'Wisdom', A: stats?.wisdomLevel || 1, fullMark: 100 },
+        { subject: 'Agility', A: stats?.agilityLevel || 1, fullMark: 100 },
         { subject: 'Intelligence', A: stats?.intelligenceLevel || 1, fullMark: 100 },
     ];
 
-    const overallLevel = stats ? Math.floor((stats.strengthLevel + stats.intelligenceLevel + stats.wisdomLevel) / 3) : 1;
+    const overallLevel = stats ? Math.floor((stats.strengthLevel + stats.intelligenceLevel + stats.wisdomLevel + stats.agilityLevel) / 4) : 1;
     const hunterClass = getHunterClass(overallLevel);
 
     return (
@@ -30,7 +31,7 @@ const PlayerStatsCard = ({ stats }) => {
 
                 <div className="h-64 w-full">
                     <ResponsiveContainer width="99%" height="100%">
-                        <RadarChart cx="50%" cy="50%" outerRadius="80%" data={data}>
+                        <RadarChart cx="50%" cy="50%" outerRadius="65%" data={data}>
                             <PolarGrid stroke="#27272a" />
                             <PolarAngleAxis dataKey="subject" tick={{ fill: '#94a3b8', fontSize: 12 }} />
                             <Radar
