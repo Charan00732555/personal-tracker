@@ -52,12 +52,15 @@ public class SystemGamificationService {
         dto.setStrengthLevel((stats.getStrengthXp() / XP_PER_LEVEL) + 1);
         dto.setIntelligenceLevel((stats.getIntelligenceXp() / XP_PER_LEVEL) + 1);
         dto.setWisdomLevel((stats.getWisdomXp() / XP_PER_LEVEL) + 1);
+        dto.setAgilityLevel((stats.getAgilityXp() / XP_PER_LEVEL) + 1);
         dto.setStrengthXp(stats.getStrengthXp());
         dto.setIntelligenceXp(stats.getIntelligenceXp());
         dto.setWisdomXp(stats.getWisdomXp());
+        dto.setAgilityXp(stats.getAgilityXp());
         dto.setStrengthXpRemaining(stats.getStrengthXp() % XP_PER_LEVEL);
         dto.setIntelligenceXpRemaining(stats.getIntelligenceXp() % XP_PER_LEVEL);
         dto.setWisdomXpRemaining(stats.getWisdomXp() % XP_PER_LEVEL);
+        dto.setAgilityXpRemaining(stats.getAgilityXp() % XP_PER_LEVEL);
         dto.setWorkoutStreak(stats.getWorkoutStreak());
         dto.setJournalStreak(stats.getJournalStreak());
         return dto;
@@ -138,6 +141,8 @@ public class SystemGamificationService {
             stats.setIntelligenceXp(stats.getIntelligenceXp() + xp);
         else if ("JOURNAL".equalsIgnoreCase(type))
             stats.setWisdomXp(stats.getWisdomXp() + xp);
+        else if ("TASK".equalsIgnoreCase(type))
+            stats.setAgilityXp(stats.getAgilityXp() + xp);
         playerStatsRepository.save(stats);
     }
 
@@ -148,6 +153,7 @@ public class SystemGamificationService {
         stats.setStrengthXp(0);
         stats.setIntelligenceXp(0);
         stats.setWisdomXp(0);
+        stats.setAgilityXp(0);
         stats.setLastWorkoutDate(null);
         stats.setWorkoutStreak(0);
         stats.setLastJournalDate(null);

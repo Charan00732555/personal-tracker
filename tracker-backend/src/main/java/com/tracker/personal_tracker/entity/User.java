@@ -27,6 +27,9 @@ public class User implements UserDetails {
     @Column(nullable = false)
     private String password;
 
+    @Column(name = "avatar_id")
+    private String avatarId = "shadow_monarch"; // default avatar
+
     private LocalDateTime createdAt;
 
     @PrePersist

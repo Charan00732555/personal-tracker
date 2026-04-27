@@ -21,6 +21,7 @@ public class PlayerStats {
     private int strengthXp = 0;
     private int intelligenceXp = 0;
     private int wisdomXp = 0;
+    private int agilityXp = 0;
 
     private LocalDate lastWorkoutDate;
     private int workoutStreak = 0;

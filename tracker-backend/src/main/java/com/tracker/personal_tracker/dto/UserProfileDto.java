@@ -1,12 +1,15 @@
 package com.tracker.personal_tracker.dto;
 
 import lombok.AllArgsConstructor;
+import lombok.Builder;
 import lombok.Data;
+import lombok.NoArgsConstructor;
 
 @Data
+@Builder
 @AllArgsConstructor
-public class AuthResponse {
-    private String token;
+@NoArgsConstructor
+public class UserProfileDto {
     private String username;
     private String email;
     private String avatarId;
